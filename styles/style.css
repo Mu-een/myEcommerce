@@ -1,0 +1,34 @@
+
+body {
+    background-color: goldenrod;
+}
+
+header nav  {
+    color: gold;
+}
+/* main */
+.bg-image {
+    background-image: url(https://i.postimg.cc/qqPFX92r/aerial-view-lot-new-car-import-export-shipping-by-ship-smart-dealership-car-depot-33850-1067.webp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    object-fit: cover;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+
+/* Products */
+.products img,img,img{
+    width: 25em;
+}
+   
+/* Footer */
+footer {
+    border-top: 2px solid black;
+    padding-top: 10px;
+    text-align: center;
+}
